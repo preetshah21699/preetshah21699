@@ -10,6 +10,7 @@ Technical Skills:
 - Programming Languages: Python, Dart, C++.
 - Frameworks: Flutter, Django, Spark.
 - Databases: MS-SQL, Firebase.
+- Cloud: Azure Fundamentals.
 
 Soft-skills:
 - Analytical skills
